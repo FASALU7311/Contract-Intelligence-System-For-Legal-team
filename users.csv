@@ -1,0 +1,3 @@
+username,email,password_hash,otp,is_verified
+usman,usman123@gmail.com,e6bbd1d399f309467a08fd2622fe1bef8a988f50553b7d9b4b18837d5a09240b,323684,False
+fasal,fasalurhn502@gmail.com,dd18e27f17d28c777fef891ed181ee4bea223b8bbaee5eb2ba98f04ab445b0a9,490287,True
